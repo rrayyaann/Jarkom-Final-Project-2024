@@ -68,9 +68,9 @@ ip dhcp pool A4
 ### R&D, Pemasaran, Penjualan
 <details>
 <summary>Dokumentasi DHCP</summary>
-<img width="1500" alt="Dept R&D" src="https://github.com/user-attachments/assets/a4b29e17-2fd8-4f08-8068-80e1e158bc46">
-<img width="1500" alt="Dept Pemasaran" src="https://github.com/user-attachments/assets/96b8df5f-05b4-429b-8393-ea039a4c0993">
-<img width="1500" alt="Dept Penjualan" src="https://github.com/user-attachments/assets/bc6eebd3-c9be-4595-b0ba-beff9b57c495">
+<img width="1500" alt="Dept R&D" src="https://github.com/user-attachments/assets/a4f06b81-390c-4350-8dee-a26d31dd4d9a">
+<img width="1500" alt="Dept Pemasaran" src="https://github.com/user-attachments/assets/386b4ad0-4d1c-4601-a2a3-60672bdf6331">
+<img width="1500" alt="Dept Penjualan" src="https://github.com/user-attachments/assets/e2fb1067-66d3-45cb-a97d-665a378b68f0">
 </details>
 
 Ubah konfigurasi IP dari static ke DHCP agar dapat mendapatkan IP address dari DHCP server
