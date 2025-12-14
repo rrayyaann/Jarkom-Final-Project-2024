@@ -7,6 +7,9 @@
 | Rafi' Afnaan Fathurrahman | 5027231040 | Generic Routing Encapsulation (GRE Tunnel) |
 | Aryasatya Alaauddin | 5027231082 | Subnetting, Config Static IP |
 
+# Laporan
+https://docs.google.com/document/d/1g-jXxG1K3P_tM-L2JJjWoKGTUmt9KaQcS8HB_woNzdo/edit?usp=sharing
+
 # Spreadsheet
 https://docs.google.com/spreadsheets/d/1Squ1dY88zdvIH3a-5KMqAfZbmeSyyDW5joZg_GiuAYo/edit?usp=sharing
 
